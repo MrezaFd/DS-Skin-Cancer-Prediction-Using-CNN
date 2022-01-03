@@ -13,3 +13,6 @@ Model yang dibuat menggunakan tensorflow.kers dengan menggunakan 1 input layer, 
 
 # 4. Evaluasi Model
 Pada bagian ini, dilakukan evaluasi terhadap model yang sudah ditraining sebelumnya menggunakan visualisasi grafik ggplot terhadap tingkat accuracy dan tingkat loss. selain menggunakan visualisasi hasil training, dilakukan juga evaluasi menggunakan classification_report untuk mengetahui tingkat accuracy dengan lebih pasti.
+
+# LINK source code deployment : https://github.com/MrezaFd/Deployments_Testt2
+# Link heroku : https://skincancer-predictions.herokuapp.com/
