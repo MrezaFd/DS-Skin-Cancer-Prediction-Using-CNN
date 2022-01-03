@@ -2,8 +2,8 @@
 
 Data yang digunakan adalah data tentang kanker kulit ganas vs kanker kulit jinak
 
-# Team details      :  - Muhammad AL Reza Fahlopy Dharma (201810370311059)
-                         - Ansyari Aqshal Raditya JS (201810370311055)
+# Team details      :  Muhammad AL Reza Fahlopy Dharma (201810370311059) & Ansyari Aqshal Raditya JS (201810370311055)
+                         
 # Sprint Details   :   link
  
 **Link Dataset** : https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign/code
