@@ -1,6 +1,15 @@
 # Tugas-Besar-ML-059-055-
 
 Data yang digunakan adalah data tentang kanker kulit ganas vs kanker kulit jinak
+**Team details**      :  - Muhammad AL Reza Fahlopy Dharma (201810370311059)
+                         - Ansyari Aqshal Raditya JS (201810370311055)
+ **Sprint Details**   :   link
+ 
+**Link Dataset** : https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign/code
+# LINK source code deployment : https://github.com/MrezaFd/Deployments_Testt2
+# Link heroku : https://skincancer-predictions.herokuapp.com/
+
+               
 
 # 1. Download Data
 Data yang digunakan berupa data yang sudah ada dari kaggle, setelah mendownload data dari kaggle menggunakan API token, lalu dilakukan extra dan pengecekan jumlah data yang terdapat dalam dataset
@@ -14,6 +23,4 @@ Model yang dibuat menggunakan tensorflow.kers dengan menggunakan 1 input layer, 
 # 4. Evaluasi Model
 Pada bagian ini, dilakukan evaluasi terhadap model yang sudah ditraining sebelumnya menggunakan visualisasi grafik ggplot terhadap tingkat accuracy dan tingkat loss. selain menggunakan visualisasi hasil training, dilakukan juga evaluasi menggunakan classification_report untuk mengetahui tingkat accuracy dengan lebih pasti.
 
-# LINK source code deployment : https://github.com/MrezaFd/Deployments_Testt2
-# Link heroku : https://skincancer-predictions.herokuapp.com/
-# Link Dataset ; https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign/code
+
