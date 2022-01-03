@@ -16,3 +16,4 @@ Pada bagian ini, dilakukan evaluasi terhadap model yang sudah ditraining sebelum
 
 # LINK source code deployment : https://github.com/MrezaFd/Deployments_Testt2
 # Link heroku : https://skincancer-predictions.herokuapp.com/
+# Link Dataset ; https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign/code
