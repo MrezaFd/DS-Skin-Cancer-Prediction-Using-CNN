@@ -10,7 +10,7 @@ Data yang digunakan adalah data tentang kanker kulit ganas vs kanker kulit jinak
 
 **LINK source code deployment** : https://github.com/MrezaFd/Deployments_Testt2
 
-**Link Heroku** : https://skincancer-predictions.herokuapp.com/
+**Link Heroku** : -
 
                
 
