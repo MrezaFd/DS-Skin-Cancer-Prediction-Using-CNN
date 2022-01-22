@@ -9,8 +9,10 @@ Data yang digunakan adalah data tentang kanker kulit ganas vs kanker kulit jinak
 **Link Dataset** : https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign/code
 
 **LINK source code deployment** : https://github.com/MrezaFd/Deployments_Testt2
+**LINK source code model terbaik** :  https://github.com/MrezaFd/Tugas-Besar-ML-059-055-/blob/main/Model_Terbaik_deploy.ipynb
 
-**Link Heroku** : -
+**Link Heroku** : (Deploy melalu local gambar hasil deploy dapat dilihat dibawah ini )
+    
 
                
 
