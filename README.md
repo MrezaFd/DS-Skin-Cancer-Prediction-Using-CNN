@@ -1,4 +1,6 @@
-# Tugas-Besar-ML-059-055-
+# SKIN CANCER PREDICTION MALIGNANT OR BENIGN USING CNN
+ (CONVOLUTIONAL NEURAL NETWORK)
+
 
 Data yang digunakan adalah data tentang kanker kulit ganas vs kanker kulit jinak
 
